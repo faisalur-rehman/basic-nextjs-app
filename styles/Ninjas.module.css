@@ -1,0 +1,11 @@
+.ninjaListing {
+  background: white;
+  color: black;
+  display: block;
+  padding: 20px 40px;
+  margin: 10px 50px;
+}
+.ninjaListing:hover {
+  border-left: 10px solid rgb(75, 174, 240);
+  cursor: pointer;
+}
